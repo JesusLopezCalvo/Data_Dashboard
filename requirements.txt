@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib.pyplot
+seaborn
+plotly.express
+numpy
+os
+scipy
+sklearn.linear_model
+sklearn.impute
+statsmodels.stats.multicomp
