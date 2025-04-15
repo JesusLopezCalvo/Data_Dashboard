@@ -5,10 +5,6 @@ import seaborn as sns
 import plotly.express as px
 import numpy as np
 import os
-from scipy import stats
-from sklearn.linear_model import LinearRegression
-from sklearn.impute import SimpleImputer
-from statsmodels.stats.multicomp import pairwise_tukeyhsd
 
 st.set_page_config(page_title="Interactive Learning Guide", layout="wide")
 
